@@ -1,3 +1,4 @@
+flit-core
 torch
 fairscale
 fire
